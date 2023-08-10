@@ -1,0 +1,15 @@
+connect to gitHub account from terminal
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+// to clone (copy a project) fron GitHub
+git clone htps:///url
+
+// to pull updates from  GitHub
+git pull origin main
+
+// to push your updates to GitHub
+git add .
+git commit -m "My comments"
+git push origin main
